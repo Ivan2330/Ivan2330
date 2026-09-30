@@ -21,4 +21,4 @@ suite (recall, MRR, nDCG).
 over Wikipedia pageview data. Metrics computed in Python rather than trusted to
 the model, 136 unit tests, multi-model evaluation harness with cost tracking.
 
-📫 [LinkedIn](www.linkedin.com/in/ivan-kozhevnyk-534850321) · kozhevnyk.ivan23@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/ivan-kozhevnyk-534850321) · kozhevnyk.ivan23@gmail.com
