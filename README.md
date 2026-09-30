@@ -1,16 +1,24 @@
-## Hi there 👋
+## Ivan Kozhevnyk
 
-<!--
-**Ivan2330/Ivan2330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Middle Python Engineer / AI Engineer — Kyiv, Ukraine
 
-Here are some ideas to get you started:
+I build production backend systems and LLM applications: RAG over internal
+data, agent workflows, and the evaluation that keeps them honest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Python · FastAPI · AsyncIO · SQLAlchemy · Pydantic · WebSockets · WebRTC
+**Data:** PostgreSQL · MongoDB · Redis · Elasticsearch · pgvector · FAISS
+**AI/LLM:** LangChain · LangGraph · RAG · agents · LLM evaluation
+**Infra:** Docker · Kubernetes · AWS · CI/CD
+
+### Selected work
+
+**[avionics-rag](https://github.com/Ivan2330/avionics-rag)** — evidence-grounded QA
+over aviation manuals. Hybrid pgvector search with reranking, cited answers,
+fail-closed refusal when evidence is insufficient, and a reproducible evaluation
+suite (recall, MRR, nDCG).
+
+**[report-agent](https://github.com/Ivan2330/report-agent)** — research automation
+over Wikipedia pageview data. Metrics computed in Python rather than trusted to
+the model, 136 unit tests, multi-model evaluation harness with cost tracking.
+
+📫 [LinkedIn](посилання) · kozhevnyk.ivan23@gmail.com
